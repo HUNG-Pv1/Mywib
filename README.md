@@ -1,12 +1,12 @@
 # DUCK
 
-<li>Chứa danh sách, hình ảnh và liên kết ngoài</li>
+<li>I love Duck</li>
 </ul>
 </section>
 
 
 <section>
-<h2>Ảnh minh họa (ít nhất 3 ảnh)</h2>
+<h2>Ducks</h2>
 <figure>
 <img src="https://cdn.pixabay.com/photo/2018/06/16/00/39/mallard-3478011_640.jpg" /><br>
 <figcaption>Image 1 — Duck 1.</figcaption>
